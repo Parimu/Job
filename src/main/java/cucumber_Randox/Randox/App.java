@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Welcome to Selenium");
+        System.out.println("Welcome to Selenium1");
+        System.out.println("Welcome to Selenium2");
     }
 }
