@@ -13,6 +13,7 @@ public class App
         System.out.println("Welcome to Selenium1");
         System.out.println("Welcome to Selenium2");
         System.out.println("updated on 17/11/2022");
+         System.out.println("updated on 17/11/2022");
         
     }
 }
